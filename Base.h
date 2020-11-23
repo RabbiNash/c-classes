@@ -2,5 +2,4 @@
 
 int intAddition(int a, int b);
 
-void nameOfTheProcedure();
-int nameOfTheFunction();
+void condition(int a, int b);
