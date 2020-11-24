@@ -142,6 +142,60 @@ dsti_day_1/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\dsti_day_1.dir\build.make CMakeFiles/dsti_day_1.dir/build
 .PHONY : dsti_day_1/fast
 
+DynamicArray.obj: DynamicArray.c.obj
+
+.PHONY : DynamicArray.obj
+
+# target to build an object file
+DynamicArray.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\dsti_day_1.dir\build.make CMakeFiles/dsti_day_1.dir/DynamicArray.c.obj
+.PHONY : DynamicArray.c.obj
+
+DynamicArray.i: DynamicArray.c.i
+
+.PHONY : DynamicArray.i
+
+# target to preprocess a source file
+DynamicArray.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\dsti_day_1.dir\build.make CMakeFiles/dsti_day_1.dir/DynamicArray.c.i
+.PHONY : DynamicArray.c.i
+
+DynamicArray.s: DynamicArray.c.s
+
+.PHONY : DynamicArray.s
+
+# target to generate assembly for a file
+DynamicArray.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\dsti_day_1.dir\build.make CMakeFiles/dsti_day_1.dir/DynamicArray.c.s
+.PHONY : DynamicArray.c.s
+
+MultiDArray.obj: MultiDArray.c.obj
+
+.PHONY : MultiDArray.obj
+
+# target to build an object file
+MultiDArray.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\dsti_day_1.dir\build.make CMakeFiles/dsti_day_1.dir/MultiDArray.c.obj
+.PHONY : MultiDArray.c.obj
+
+MultiDArray.i: MultiDArray.c.i
+
+.PHONY : MultiDArray.i
+
+# target to preprocess a source file
+MultiDArray.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\dsti_day_1.dir\build.make CMakeFiles/dsti_day_1.dir/MultiDArray.c.i
+.PHONY : MultiDArray.c.i
+
+MultiDArray.s: MultiDArray.c.s
+
+.PHONY : MultiDArray.s
+
+# target to generate assembly for a file
+MultiDArray.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\dsti_day_1.dir\build.make CMakeFiles/dsti_day_1.dir/MultiDArray.c.s
+.PHONY : MultiDArray.c.s
+
 atm.obj: atm.c.obj
 
 .PHONY : atm.obj
@@ -259,6 +313,12 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... dsti_day_1
+	@echo ... DynamicArray.obj
+	@echo ... DynamicArray.i
+	@echo ... DynamicArray.s
+	@echo ... MultiDArray.obj
+	@echo ... MultiDArray.i
+	@echo ... MultiDArray.s
 	@echo ... atm.obj
 	@echo ... atm.i
 	@echo ... atm.s

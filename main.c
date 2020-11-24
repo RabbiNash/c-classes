@@ -1,97 +1,32 @@
 #include "base.h"
 
 
-int main(void){
-
-    /*
-     * %d is digit is for int
-     * %f is float
-     * $c
-     *
-     */
-
-    printf("Hello, World, this is an integer: %f \n", 1.0f);
-
-    //exercise 2
-//    draw();
-
-    //exercise 9
-     dispense();
-
-    //exercise 6
-//    exercise6(1329);
-
-    return 0;
-}
-
-//works with float int double and char
-int intAddition(int a, int b){
-    return a + b;
-}
-
-int intSubtraction(int a, int b){
-    return a - b;
-}
-
-int intMultiplication(int a, int b){
-    //a*=b; a = a * b
-    return a * b;
-}
-
-int intDivision(int a, int b){
-    //a/=b
-    return a/b;
-}
-
-int intEuclideanDivision(int a, int b){
-    return a % b;
-}
-
-void conditional(int a, int b){
-    /* == equal
-     * < lower than
-     * < = lower or equal than
-     * > greater than
-     * > = greater or equal than
-     * */
-
-    if(a > b){
-
-    }
-    else if (a < b){
-
-    } else {
-
-    }
-
-    //switch
-    switch (a) {
-        case 2:
-            //do something
-            break;
-        case 3:
-            //do something
-            break;
-        default:
-            //do something on default behavior
-            break;
-    }
-}
-
-void loops(int a, int b){
-    for (int i = 0; i < 10; i++){
-        //loop till i is 9
-    }
-
-    while(a == 0){
-        //do something
-        a--;
-    }
-
-    a = 1;
-
-    do {
-
-    } while (a == 0);
-}
-
+//int main(void) {
+//    //pointers
+//
+//    int myInteger = 8;
+//
+//    //pointer to the int
+//    int* pointerInteger = &myInteger;
+//
+//    *pointerInteger = 7;
+//
+//    printf("My integer value is : %p ", (int *) &myInteger);
+//    printf("My integer value is : %d ", myInteger);
+//
+//    size_t size_of_int;
+//    size_of_int = sizeof(int);
+//
+//    printf("Size of int : %d ",size_of_int);
+//
+//
+//    //arrays
+//    int  myArray[10];
+//
+//    for (int i = 0; i < 10; i++){
+//        myArray[i] = 0;
+//    }
+//
+//    //second initialisation
+//    int myArrayAgain[3] = {0,0,0};
+//}

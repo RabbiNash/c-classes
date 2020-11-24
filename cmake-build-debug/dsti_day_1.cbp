@@ -74,6 +74,12 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="C:/Users/ASUS/CLionProjects/dsti_day_1/DynamicArray.c">
+			<Option target="dsti_day_1"/>
+		</Unit>
+		<Unit filename="C:/Users/ASUS/CLionProjects/dsti_day_1/MultiDArray.c">
+			<Option target="dsti_day_1"/>
+		</Unit>
 		<Unit filename="C:/Users/ASUS/CLionProjects/dsti_day_1/atm.c">
 			<Option target="dsti_day_1"/>
 		</Unit>

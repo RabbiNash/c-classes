@@ -6,11 +6,15 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/ASUS/CLionProjects/dsti_day_1/base.h
+C:/Users/ASUS/CLionProjects/dsti_day_1/DynamicArray.c
 stdio.h
--
+C:/Users/ASUS/CLionProjects/dsti_day_1/stdio.h
+stdlib.h
+C:/Users/ASUS/CLionProjects/dsti_day_1/stdlib.h
 
-C:/Users/ASUS/CLionProjects/dsti_day_1/main.c
-base.h
-C:/Users/ASUS/CLionProjects/dsti_day_1/base.h
+C:/Users/ASUS/CLionProjects/dsti_day_1/MultiDArray.c
+stdlib.h
+C:/Users/ASUS/CLionProjects/dsti_day_1/stdlib.h
+stdio.h
+C:/Users/ASUS/CLionProjects/dsti_day_1/stdio.h
 

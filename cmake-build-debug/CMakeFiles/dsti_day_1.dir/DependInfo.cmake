@@ -4,6 +4,8 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
+  "C:/Users/ASUS/CLionProjects/dsti_day_1/DynamicArray.c" "C:/Users/ASUS/CLionProjects/dsti_day_1/cmake-build-debug/CMakeFiles/dsti_day_1.dir/DynamicArray.c.obj"
+  "C:/Users/ASUS/CLionProjects/dsti_day_1/MultiDArray.c" "C:/Users/ASUS/CLionProjects/dsti_day_1/cmake-build-debug/CMakeFiles/dsti_day_1.dir/MultiDArray.c.obj"
   "C:/Users/ASUS/CLionProjects/dsti_day_1/atm.c" "C:/Users/ASUS/CLionProjects/dsti_day_1/cmake-build-debug/CMakeFiles/dsti_day_1.dir/atm.c.obj"
   "C:/Users/ASUS/CLionProjects/dsti_day_1/block.c" "C:/Users/ASUS/CLionProjects/dsti_day_1/cmake-build-debug/CMakeFiles/dsti_day_1.dir/block.c.obj"
   "C:/Users/ASUS/CLionProjects/dsti_day_1/exercise6.c" "C:/Users/ASUS/CLionProjects/dsti_day_1/cmake-build-debug/CMakeFiles/dsti_day_1.dir/exercise6.c.obj"

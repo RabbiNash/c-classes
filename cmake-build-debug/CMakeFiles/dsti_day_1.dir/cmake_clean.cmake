@@ -1,4 +1,6 @@
 file(REMOVE_RECURSE
+  "CMakeFiles/dsti_day_1.dir/DynamicArray.c.obj"
+  "CMakeFiles/dsti_day_1.dir/MultiDArray.c.obj"
   "CMakeFiles/dsti_day_1.dir/atm.c.obj"
   "CMakeFiles/dsti_day_1.dir/block.c.obj"
   "CMakeFiles/dsti_day_1.dir/exercise6.c.obj"
