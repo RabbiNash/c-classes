@@ -1,5 +1,28 @@
-#include <stdio.h>
-#include "Base.h"
+#include "base.h"
+
+
+int main(void){
+
+    /*
+     * %d is digit is for int
+     * %f is float
+     * $c
+     *
+     */
+
+    printf("Hello, World, this is an integer: %f \n", 1.0f);
+
+    //exercise 2
+//    draw();
+
+    //exercise 9
+     dispense();
+
+    //exercise 6
+//    exercise6(1329);
+
+    return 0;
+}
 
 //works with float int double and char
 int intAddition(int a, int b){
@@ -70,7 +93,5 @@ void loops(int a, int b){
     do {
 
     } while (a == 0);
-
-
 }
 
