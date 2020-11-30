@@ -74,10 +74,31 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="C:/Users/ASUS/CLionProjects/dsti_day_1/AppendArray.c">
+			<Option target="dsti_day_1"/>
+		</Unit>
 		<Unit filename="C:/Users/ASUS/CLionProjects/dsti_day_1/DynamicArray.c">
 			<Option target="dsti_day_1"/>
 		</Unit>
+		<Unit filename="C:/Users/ASUS/CLionProjects/dsti_day_1/DynamicArrayLargest.c">
+			<Option target="dsti_day_1"/>
+		</Unit>
 		<Unit filename="C:/Users/ASUS/CLionProjects/dsti_day_1/MultiDArray.c">
+			<Option target="dsti_day_1"/>
+		</Unit>
+		<Unit filename="C:/Users/ASUS/CLionProjects/dsti_day_1/Random.c">
+			<Option target="dsti_day_1"/>
+		</Unit>
+		<Unit filename="C:/Users/ASUS/CLionProjects/dsti_day_1/Recursion.c">
+			<Option target="dsti_day_1"/>
+		</Unit>
+		<Unit filename="C:/Users/ASUS/CLionProjects/dsti_day_1/Recursion.h">
+			<Option target="dsti_day_1"/>
+		</Unit>
+		<Unit filename="C:/Users/ASUS/CLionProjects/dsti_day_1/StringLength.c">
+			<Option target="dsti_day_1"/>
+		</Unit>
+		<Unit filename="C:/Users/ASUS/CLionProjects/dsti_day_1/SwapElements.c">
 			<Option target="dsti_day_1"/>
 		</Unit>
 		<Unit filename="C:/Users/ASUS/CLionProjects/dsti_day_1/atm.c">
@@ -90,6 +111,12 @@
 			<Option target="dsti_day_1"/>
 		</Unit>
 		<Unit filename="C:/Users/ASUS/CLionProjects/dsti_day_1/main.c">
+			<Option target="dsti_day_1"/>
+		</Unit>
+		<Unit filename="C:/Users/ASUS/CLionProjects/dsti_day_1/sort.c">
+			<Option target="dsti_day_1"/>
+		</Unit>
+		<Unit filename="C:/Users/ASUS/CLionProjects/dsti_day_1/sort.h">
 			<Option target="dsti_day_1"/>
 		</Unit>
 		<Unit filename="C:/Users/ASUS/CLionProjects/dsti_day_1/CMakeLists.txt">

@@ -5,7 +5,7 @@
 #include "stdlib.h"
 #include "stdio.h"
 
-int main(void){
+int mainArrayD(void){
     int** my2DimArray;
 
     //create a 10 x 8 array

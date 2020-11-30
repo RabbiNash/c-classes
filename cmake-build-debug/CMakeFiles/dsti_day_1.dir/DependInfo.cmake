@@ -4,12 +4,19 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
+  "C:/Users/ASUS/CLionProjects/dsti_day_1/AppendArray.c" "C:/Users/ASUS/CLionProjects/dsti_day_1/cmake-build-debug/CMakeFiles/dsti_day_1.dir/AppendArray.c.obj"
   "C:/Users/ASUS/CLionProjects/dsti_day_1/DynamicArray.c" "C:/Users/ASUS/CLionProjects/dsti_day_1/cmake-build-debug/CMakeFiles/dsti_day_1.dir/DynamicArray.c.obj"
+  "C:/Users/ASUS/CLionProjects/dsti_day_1/DynamicArrayLargest.c" "C:/Users/ASUS/CLionProjects/dsti_day_1/cmake-build-debug/CMakeFiles/dsti_day_1.dir/DynamicArrayLargest.c.obj"
   "C:/Users/ASUS/CLionProjects/dsti_day_1/MultiDArray.c" "C:/Users/ASUS/CLionProjects/dsti_day_1/cmake-build-debug/CMakeFiles/dsti_day_1.dir/MultiDArray.c.obj"
+  "C:/Users/ASUS/CLionProjects/dsti_day_1/Random.c" "C:/Users/ASUS/CLionProjects/dsti_day_1/cmake-build-debug/CMakeFiles/dsti_day_1.dir/Random.c.obj"
+  "C:/Users/ASUS/CLionProjects/dsti_day_1/Recursion.c" "C:/Users/ASUS/CLionProjects/dsti_day_1/cmake-build-debug/CMakeFiles/dsti_day_1.dir/Recursion.c.obj"
+  "C:/Users/ASUS/CLionProjects/dsti_day_1/StringLength.c" "C:/Users/ASUS/CLionProjects/dsti_day_1/cmake-build-debug/CMakeFiles/dsti_day_1.dir/StringLength.c.obj"
+  "C:/Users/ASUS/CLionProjects/dsti_day_1/SwapElements.c" "C:/Users/ASUS/CLionProjects/dsti_day_1/cmake-build-debug/CMakeFiles/dsti_day_1.dir/SwapElements.c.obj"
   "C:/Users/ASUS/CLionProjects/dsti_day_1/atm.c" "C:/Users/ASUS/CLionProjects/dsti_day_1/cmake-build-debug/CMakeFiles/dsti_day_1.dir/atm.c.obj"
   "C:/Users/ASUS/CLionProjects/dsti_day_1/block.c" "C:/Users/ASUS/CLionProjects/dsti_day_1/cmake-build-debug/CMakeFiles/dsti_day_1.dir/block.c.obj"
   "C:/Users/ASUS/CLionProjects/dsti_day_1/exercise6.c" "C:/Users/ASUS/CLionProjects/dsti_day_1/cmake-build-debug/CMakeFiles/dsti_day_1.dir/exercise6.c.obj"
   "C:/Users/ASUS/CLionProjects/dsti_day_1/main.c" "C:/Users/ASUS/CLionProjects/dsti_day_1/cmake-build-debug/CMakeFiles/dsti_day_1.dir/main.c.obj"
+  "C:/Users/ASUS/CLionProjects/dsti_day_1/sort.c" "C:/Users/ASUS/CLionProjects/dsti_day_1/cmake-build-debug/CMakeFiles/dsti_day_1.dir/sort.c.obj"
   )
 set(CMAKE_C_COMPILER_ID "GNU")
 

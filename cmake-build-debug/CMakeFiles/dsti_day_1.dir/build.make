@@ -154,6 +154,97 @@ CMakeFiles/dsti_day_1.dir/MultiDArray.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/dsti_day_1.dir/MultiDArray.c.s"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\ASUS\CLionProjects\dsti_day_1\MultiDArray.c -o CMakeFiles\dsti_day_1.dir\MultiDArray.c.s
 
+CMakeFiles/dsti_day_1.dir/Random.c.obj: CMakeFiles/dsti_day_1.dir/flags.make
+CMakeFiles/dsti_day_1.dir/Random.c.obj: ../Random.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ASUS\CLionProjects\dsti_day_1\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building C object CMakeFiles/dsti_day_1.dir/Random.c.obj"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\dsti_day_1.dir\Random.c.obj   -c C:\Users\ASUS\CLionProjects\dsti_day_1\Random.c
+
+CMakeFiles/dsti_day_1.dir/Random.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/dsti_day_1.dir/Random.c.i"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\ASUS\CLionProjects\dsti_day_1\Random.c > CMakeFiles\dsti_day_1.dir\Random.c.i
+
+CMakeFiles/dsti_day_1.dir/Random.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/dsti_day_1.dir/Random.c.s"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\ASUS\CLionProjects\dsti_day_1\Random.c -o CMakeFiles\dsti_day_1.dir\Random.c.s
+
+CMakeFiles/dsti_day_1.dir/SwapElements.c.obj: CMakeFiles/dsti_day_1.dir/flags.make
+CMakeFiles/dsti_day_1.dir/SwapElements.c.obj: ../SwapElements.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ASUS\CLionProjects\dsti_day_1\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building C object CMakeFiles/dsti_day_1.dir/SwapElements.c.obj"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\dsti_day_1.dir\SwapElements.c.obj   -c C:\Users\ASUS\CLionProjects\dsti_day_1\SwapElements.c
+
+CMakeFiles/dsti_day_1.dir/SwapElements.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/dsti_day_1.dir/SwapElements.c.i"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\ASUS\CLionProjects\dsti_day_1\SwapElements.c > CMakeFiles\dsti_day_1.dir\SwapElements.c.i
+
+CMakeFiles/dsti_day_1.dir/SwapElements.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/dsti_day_1.dir/SwapElements.c.s"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\ASUS\CLionProjects\dsti_day_1\SwapElements.c -o CMakeFiles\dsti_day_1.dir\SwapElements.c.s
+
+CMakeFiles/dsti_day_1.dir/StringLength.c.obj: CMakeFiles/dsti_day_1.dir/flags.make
+CMakeFiles/dsti_day_1.dir/StringLength.c.obj: ../StringLength.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ASUS\CLionProjects\dsti_day_1\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building C object CMakeFiles/dsti_day_1.dir/StringLength.c.obj"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\dsti_day_1.dir\StringLength.c.obj   -c C:\Users\ASUS\CLionProjects\dsti_day_1\StringLength.c
+
+CMakeFiles/dsti_day_1.dir/StringLength.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/dsti_day_1.dir/StringLength.c.i"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\ASUS\CLionProjects\dsti_day_1\StringLength.c > CMakeFiles\dsti_day_1.dir\StringLength.c.i
+
+CMakeFiles/dsti_day_1.dir/StringLength.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/dsti_day_1.dir/StringLength.c.s"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\ASUS\CLionProjects\dsti_day_1\StringLength.c -o CMakeFiles\dsti_day_1.dir\StringLength.c.s
+
+CMakeFiles/dsti_day_1.dir/DynamicArrayLargest.c.obj: CMakeFiles/dsti_day_1.dir/flags.make
+CMakeFiles/dsti_day_1.dir/DynamicArrayLargest.c.obj: ../DynamicArrayLargest.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ASUS\CLionProjects\dsti_day_1\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building C object CMakeFiles/dsti_day_1.dir/DynamicArrayLargest.c.obj"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\dsti_day_1.dir\DynamicArrayLargest.c.obj   -c C:\Users\ASUS\CLionProjects\dsti_day_1\DynamicArrayLargest.c
+
+CMakeFiles/dsti_day_1.dir/DynamicArrayLargest.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/dsti_day_1.dir/DynamicArrayLargest.c.i"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\ASUS\CLionProjects\dsti_day_1\DynamicArrayLargest.c > CMakeFiles\dsti_day_1.dir\DynamicArrayLargest.c.i
+
+CMakeFiles/dsti_day_1.dir/DynamicArrayLargest.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/dsti_day_1.dir/DynamicArrayLargest.c.s"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\ASUS\CLionProjects\dsti_day_1\DynamicArrayLargest.c -o CMakeFiles\dsti_day_1.dir\DynamicArrayLargest.c.s
+
+CMakeFiles/dsti_day_1.dir/AppendArray.c.obj: CMakeFiles/dsti_day_1.dir/flags.make
+CMakeFiles/dsti_day_1.dir/AppendArray.c.obj: ../AppendArray.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ASUS\CLionProjects\dsti_day_1\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building C object CMakeFiles/dsti_day_1.dir/AppendArray.c.obj"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\dsti_day_1.dir\AppendArray.c.obj   -c C:\Users\ASUS\CLionProjects\dsti_day_1\AppendArray.c
+
+CMakeFiles/dsti_day_1.dir/AppendArray.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/dsti_day_1.dir/AppendArray.c.i"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\ASUS\CLionProjects\dsti_day_1\AppendArray.c > CMakeFiles\dsti_day_1.dir\AppendArray.c.i
+
+CMakeFiles/dsti_day_1.dir/AppendArray.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/dsti_day_1.dir/AppendArray.c.s"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\ASUS\CLionProjects\dsti_day_1\AppendArray.c -o CMakeFiles\dsti_day_1.dir\AppendArray.c.s
+
+CMakeFiles/dsti_day_1.dir/Recursion.c.obj: CMakeFiles/dsti_day_1.dir/flags.make
+CMakeFiles/dsti_day_1.dir/Recursion.c.obj: ../Recursion.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ASUS\CLionProjects\dsti_day_1\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building C object CMakeFiles/dsti_day_1.dir/Recursion.c.obj"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\dsti_day_1.dir\Recursion.c.obj   -c C:\Users\ASUS\CLionProjects\dsti_day_1\Recursion.c
+
+CMakeFiles/dsti_day_1.dir/Recursion.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/dsti_day_1.dir/Recursion.c.i"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\ASUS\CLionProjects\dsti_day_1\Recursion.c > CMakeFiles\dsti_day_1.dir\Recursion.c.i
+
+CMakeFiles/dsti_day_1.dir/Recursion.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/dsti_day_1.dir/Recursion.c.s"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\ASUS\CLionProjects\dsti_day_1\Recursion.c -o CMakeFiles\dsti_day_1.dir\Recursion.c.s
+
+CMakeFiles/dsti_day_1.dir/sort.c.obj: CMakeFiles/dsti_day_1.dir/flags.make
+CMakeFiles/dsti_day_1.dir/sort.c.obj: ../sort.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ASUS\CLionProjects\dsti_day_1\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building C object CMakeFiles/dsti_day_1.dir/sort.c.obj"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\dsti_day_1.dir\sort.c.obj   -c C:\Users\ASUS\CLionProjects\dsti_day_1\sort.c
+
+CMakeFiles/dsti_day_1.dir/sort.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/dsti_day_1.dir/sort.c.i"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\ASUS\CLionProjects\dsti_day_1\sort.c > CMakeFiles\dsti_day_1.dir\sort.c.i
+
+CMakeFiles/dsti_day_1.dir/sort.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/dsti_day_1.dir/sort.c.s"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\ASUS\CLionProjects\dsti_day_1\sort.c -o CMakeFiles\dsti_day_1.dir\sort.c.s
+
 # Object files for target dsti_day_1
 dsti_day_1_OBJECTS = \
 "CMakeFiles/dsti_day_1.dir/main.c.obj" \
@@ -161,7 +252,14 @@ dsti_day_1_OBJECTS = \
 "CMakeFiles/dsti_day_1.dir/block.c.obj" \
 "CMakeFiles/dsti_day_1.dir/exercise6.c.obj" \
 "CMakeFiles/dsti_day_1.dir/DynamicArray.c.obj" \
-"CMakeFiles/dsti_day_1.dir/MultiDArray.c.obj"
+"CMakeFiles/dsti_day_1.dir/MultiDArray.c.obj" \
+"CMakeFiles/dsti_day_1.dir/Random.c.obj" \
+"CMakeFiles/dsti_day_1.dir/SwapElements.c.obj" \
+"CMakeFiles/dsti_day_1.dir/StringLength.c.obj" \
+"CMakeFiles/dsti_day_1.dir/DynamicArrayLargest.c.obj" \
+"CMakeFiles/dsti_day_1.dir/AppendArray.c.obj" \
+"CMakeFiles/dsti_day_1.dir/Recursion.c.obj" \
+"CMakeFiles/dsti_day_1.dir/sort.c.obj"
 
 # External object files for target dsti_day_1
 dsti_day_1_EXTERNAL_OBJECTS =
@@ -172,11 +270,18 @@ dsti_day_1.exe: CMakeFiles/dsti_day_1.dir/block.c.obj
 dsti_day_1.exe: CMakeFiles/dsti_day_1.dir/exercise6.c.obj
 dsti_day_1.exe: CMakeFiles/dsti_day_1.dir/DynamicArray.c.obj
 dsti_day_1.exe: CMakeFiles/dsti_day_1.dir/MultiDArray.c.obj
+dsti_day_1.exe: CMakeFiles/dsti_day_1.dir/Random.c.obj
+dsti_day_1.exe: CMakeFiles/dsti_day_1.dir/SwapElements.c.obj
+dsti_day_1.exe: CMakeFiles/dsti_day_1.dir/StringLength.c.obj
+dsti_day_1.exe: CMakeFiles/dsti_day_1.dir/DynamicArrayLargest.c.obj
+dsti_day_1.exe: CMakeFiles/dsti_day_1.dir/AppendArray.c.obj
+dsti_day_1.exe: CMakeFiles/dsti_day_1.dir/Recursion.c.obj
+dsti_day_1.exe: CMakeFiles/dsti_day_1.dir/sort.c.obj
 dsti_day_1.exe: CMakeFiles/dsti_day_1.dir/build.make
 dsti_day_1.exe: CMakeFiles/dsti_day_1.dir/linklibs.rsp
 dsti_day_1.exe: CMakeFiles/dsti_day_1.dir/objects1.rsp
 dsti_day_1.exe: CMakeFiles/dsti_day_1.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\ASUS\CLionProjects\dsti_day_1\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Linking C executable dsti_day_1.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\ASUS\CLionProjects\dsti_day_1\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Linking C executable dsti_day_1.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\dsti_day_1.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

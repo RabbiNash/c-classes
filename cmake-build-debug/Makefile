@@ -142,6 +142,33 @@ dsti_day_1/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\dsti_day_1.dir\build.make CMakeFiles/dsti_day_1.dir/build
 .PHONY : dsti_day_1/fast
 
+AppendArray.obj: AppendArray.c.obj
+
+.PHONY : AppendArray.obj
+
+# target to build an object file
+AppendArray.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\dsti_day_1.dir\build.make CMakeFiles/dsti_day_1.dir/AppendArray.c.obj
+.PHONY : AppendArray.c.obj
+
+AppendArray.i: AppendArray.c.i
+
+.PHONY : AppendArray.i
+
+# target to preprocess a source file
+AppendArray.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\dsti_day_1.dir\build.make CMakeFiles/dsti_day_1.dir/AppendArray.c.i
+.PHONY : AppendArray.c.i
+
+AppendArray.s: AppendArray.c.s
+
+.PHONY : AppendArray.s
+
+# target to generate assembly for a file
+AppendArray.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\dsti_day_1.dir\build.make CMakeFiles/dsti_day_1.dir/AppendArray.c.s
+.PHONY : AppendArray.c.s
+
 DynamicArray.obj: DynamicArray.c.obj
 
 .PHONY : DynamicArray.obj
@@ -169,6 +196,33 @@ DynamicArray.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\dsti_day_1.dir\build.make CMakeFiles/dsti_day_1.dir/DynamicArray.c.s
 .PHONY : DynamicArray.c.s
 
+DynamicArrayLargest.obj: DynamicArrayLargest.c.obj
+
+.PHONY : DynamicArrayLargest.obj
+
+# target to build an object file
+DynamicArrayLargest.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\dsti_day_1.dir\build.make CMakeFiles/dsti_day_1.dir/DynamicArrayLargest.c.obj
+.PHONY : DynamicArrayLargest.c.obj
+
+DynamicArrayLargest.i: DynamicArrayLargest.c.i
+
+.PHONY : DynamicArrayLargest.i
+
+# target to preprocess a source file
+DynamicArrayLargest.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\dsti_day_1.dir\build.make CMakeFiles/dsti_day_1.dir/DynamicArrayLargest.c.i
+.PHONY : DynamicArrayLargest.c.i
+
+DynamicArrayLargest.s: DynamicArrayLargest.c.s
+
+.PHONY : DynamicArrayLargest.s
+
+# target to generate assembly for a file
+DynamicArrayLargest.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\dsti_day_1.dir\build.make CMakeFiles/dsti_day_1.dir/DynamicArrayLargest.c.s
+.PHONY : DynamicArrayLargest.c.s
+
 MultiDArray.obj: MultiDArray.c.obj
 
 .PHONY : MultiDArray.obj
@@ -195,6 +249,114 @@ MultiDArray.s: MultiDArray.c.s
 MultiDArray.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\dsti_day_1.dir\build.make CMakeFiles/dsti_day_1.dir/MultiDArray.c.s
 .PHONY : MultiDArray.c.s
+
+Random.obj: Random.c.obj
+
+.PHONY : Random.obj
+
+# target to build an object file
+Random.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\dsti_day_1.dir\build.make CMakeFiles/dsti_day_1.dir/Random.c.obj
+.PHONY : Random.c.obj
+
+Random.i: Random.c.i
+
+.PHONY : Random.i
+
+# target to preprocess a source file
+Random.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\dsti_day_1.dir\build.make CMakeFiles/dsti_day_1.dir/Random.c.i
+.PHONY : Random.c.i
+
+Random.s: Random.c.s
+
+.PHONY : Random.s
+
+# target to generate assembly for a file
+Random.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\dsti_day_1.dir\build.make CMakeFiles/dsti_day_1.dir/Random.c.s
+.PHONY : Random.c.s
+
+Recursion.obj: Recursion.c.obj
+
+.PHONY : Recursion.obj
+
+# target to build an object file
+Recursion.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\dsti_day_1.dir\build.make CMakeFiles/dsti_day_1.dir/Recursion.c.obj
+.PHONY : Recursion.c.obj
+
+Recursion.i: Recursion.c.i
+
+.PHONY : Recursion.i
+
+# target to preprocess a source file
+Recursion.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\dsti_day_1.dir\build.make CMakeFiles/dsti_day_1.dir/Recursion.c.i
+.PHONY : Recursion.c.i
+
+Recursion.s: Recursion.c.s
+
+.PHONY : Recursion.s
+
+# target to generate assembly for a file
+Recursion.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\dsti_day_1.dir\build.make CMakeFiles/dsti_day_1.dir/Recursion.c.s
+.PHONY : Recursion.c.s
+
+StringLength.obj: StringLength.c.obj
+
+.PHONY : StringLength.obj
+
+# target to build an object file
+StringLength.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\dsti_day_1.dir\build.make CMakeFiles/dsti_day_1.dir/StringLength.c.obj
+.PHONY : StringLength.c.obj
+
+StringLength.i: StringLength.c.i
+
+.PHONY : StringLength.i
+
+# target to preprocess a source file
+StringLength.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\dsti_day_1.dir\build.make CMakeFiles/dsti_day_1.dir/StringLength.c.i
+.PHONY : StringLength.c.i
+
+StringLength.s: StringLength.c.s
+
+.PHONY : StringLength.s
+
+# target to generate assembly for a file
+StringLength.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\dsti_day_1.dir\build.make CMakeFiles/dsti_day_1.dir/StringLength.c.s
+.PHONY : StringLength.c.s
+
+SwapElements.obj: SwapElements.c.obj
+
+.PHONY : SwapElements.obj
+
+# target to build an object file
+SwapElements.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\dsti_day_1.dir\build.make CMakeFiles/dsti_day_1.dir/SwapElements.c.obj
+.PHONY : SwapElements.c.obj
+
+SwapElements.i: SwapElements.c.i
+
+.PHONY : SwapElements.i
+
+# target to preprocess a source file
+SwapElements.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\dsti_day_1.dir\build.make CMakeFiles/dsti_day_1.dir/SwapElements.c.i
+.PHONY : SwapElements.c.i
+
+SwapElements.s: SwapElements.c.s
+
+.PHONY : SwapElements.s
+
+# target to generate assembly for a file
+SwapElements.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\dsti_day_1.dir\build.make CMakeFiles/dsti_day_1.dir/SwapElements.c.s
+.PHONY : SwapElements.c.s
 
 atm.obj: atm.c.obj
 
@@ -304,6 +466,33 @@ main.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\dsti_day_1.dir\build.make CMakeFiles/dsti_day_1.dir/main.c.s
 .PHONY : main.c.s
 
+sort.obj: sort.c.obj
+
+.PHONY : sort.obj
+
+# target to build an object file
+sort.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\dsti_day_1.dir\build.make CMakeFiles/dsti_day_1.dir/sort.c.obj
+.PHONY : sort.c.obj
+
+sort.i: sort.c.i
+
+.PHONY : sort.i
+
+# target to preprocess a source file
+sort.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\dsti_day_1.dir\build.make CMakeFiles/dsti_day_1.dir/sort.c.i
+.PHONY : sort.c.i
+
+sort.s: sort.c.s
+
+.PHONY : sort.s
+
+# target to generate assembly for a file
+sort.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\dsti_day_1.dir\build.make CMakeFiles/dsti_day_1.dir/sort.c.s
+.PHONY : sort.c.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -313,12 +502,30 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... dsti_day_1
+	@echo ... AppendArray.obj
+	@echo ... AppendArray.i
+	@echo ... AppendArray.s
 	@echo ... DynamicArray.obj
 	@echo ... DynamicArray.i
 	@echo ... DynamicArray.s
+	@echo ... DynamicArrayLargest.obj
+	@echo ... DynamicArrayLargest.i
+	@echo ... DynamicArrayLargest.s
 	@echo ... MultiDArray.obj
 	@echo ... MultiDArray.i
 	@echo ... MultiDArray.s
+	@echo ... Random.obj
+	@echo ... Random.i
+	@echo ... Random.s
+	@echo ... Recursion.obj
+	@echo ... Recursion.i
+	@echo ... Recursion.s
+	@echo ... StringLength.obj
+	@echo ... StringLength.i
+	@echo ... StringLength.s
+	@echo ... SwapElements.obj
+	@echo ... SwapElements.i
+	@echo ... SwapElements.s
 	@echo ... atm.obj
 	@echo ... atm.i
 	@echo ... atm.s
@@ -331,6 +538,9 @@ help:
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s
+	@echo ... sort.obj
+	@echo ... sort.i
+	@echo ... sort.s
 .PHONY : help
 
 
